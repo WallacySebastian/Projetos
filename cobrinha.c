@@ -164,9 +164,7 @@ void marcar(unsigned char matriz[60][60], int n){
 }
 
 /* DIREÇÃO:
-
    7 0 1
    6   2
    5 4 3
-
 */
